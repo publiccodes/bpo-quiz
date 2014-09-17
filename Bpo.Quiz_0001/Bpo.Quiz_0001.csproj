@@ -63,7 +63,6 @@
     <Content Include="Content\Css\main.css" />
     <Content Include="Content\Images\images_sample.png" />
     <Content Include="Content\Images\loading.gif" />
-    <Content Include="Content\Images\top.jpg" />
     <Content Include="index.html" />
     <Content Include="Scripts\main.js" />
     <Content Include="Web.config" />
