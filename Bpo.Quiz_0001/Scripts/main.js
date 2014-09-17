@@ -13,6 +13,8 @@
 });
 
 function playSound(id) {
-    document.getElementById(id).load();
-    document.getElementById(id).play();
+    if (true) {
+        document.getElementById(id).load();
+        document.getElementById(id).play();
+    }
 }
