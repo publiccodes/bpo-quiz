@@ -5,10 +5,10 @@
         $("#q01_img").css("background-position", "0px 0px");
     });
     $("#button_01").click(function () {
-        playSound("click_sound");
+        playSound("hover_sound");
     });
     $("#button_01").mouseover(function () {
-        playSound("hover_sound");
+        playSound("click_sound");
     });
 });
 
