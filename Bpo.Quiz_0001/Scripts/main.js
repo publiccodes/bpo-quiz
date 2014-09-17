@@ -5,6 +5,7 @@
         $("#q01_img").css("background-position", "0px 0px");
     });
     $("#button_01").click(function () {
+        // test
         playSound("click_sound");
     });
     $("#button_01").mouseover(function () {
@@ -18,3 +19,5 @@ function playSound(id) {
         document.getElementById(id).play();
     }
 }
+
+// https://github.com/publiccodes/bpo-quiz/blob/gh-pages/Bpo.Quiz_0001/Scripts/main.js
